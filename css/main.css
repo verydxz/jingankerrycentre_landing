@@ -9,8 +9,8 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-   
-   
+
+
 .event-inner,.contact-inner,.shop-wrapper,.home-page,.overlay-bg,.store-back-btn,.download-mobile-pdf{
   -webkit-transition: all 800ms cubic-bezier(0.645, 0.045, 0.355, 1);
   -moz-transition: all 800ms cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -19,7 +19,7 @@
 }
 
 
-.click-btn,.click-btn h4,.shop-head,.atozlist,.atozselector,.mobile-menu,#store-btn,.text-overlay,.email-wrapper,.lang,.email,.store-back-btn-hight 
+.click-btn,.click-btn h4,.shop-head,.atozlist,.atozselector,.mobile-menu,#store-btn,.text-overlay,.email-wrapper,.lang,.email,.store-back-btn-hight
 {
   -webkit-transition: all 300ms cubic-bezier(0.645, 0.045, 0.355, 1);
   -moz-transition: all 300ms cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -42,7 +42,7 @@ a:focus, a:focus{
 .desktop-v{display: block}
 .mobile-v{display: none}
 
-   
+
 .slide-image{height: 560px;width: 100%;background-size: cover;background-position:center center }
 .home-page{position: fixed;width: 100%;height: 100%;top:0;left: 0;}
 .home-page.active{top:-100%}
@@ -130,7 +130,7 @@ a:focus, a:focus{
 .address{margin-bottom: 200px}
 .icon-1{background: url(../img/icon/icon-pin.png) center center no-repeat;background-size: auto 100%; ;width: 25px;height: 25px;margin: 6px auto}
 .icon-2{background: url(../img/icon/lady.png) center center no-repeat;background-size: auto 100%; ;width: 25px;height: 25px;margin: 6px auto}
-.icon-3{background: url(../img/icon/icon-offices.png) center center no-repeat;background-size: auto 100%; ;width: 25px;height: 30px;margin: 6px auto}
+.icon-3{background: url(../img/icon/icon-info.png) center center no-repeat;background-size: auto 100%; ;width: 25px;height: 30px;margin: 6px auto}
 .icon-4{background: url(../img/icon/Combined.png) center center no-repeat;background-size: auto 100%; ;width: 25px;height: 25px;margin: 6px auto}
 
 
@@ -287,4 +287,3 @@ tr.item.show-now{display:table-row!important}
 .active .icon-checkmark circle {
   transform: scale(1);
 }
-
