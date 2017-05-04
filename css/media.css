@@ -1,0 +1,69 @@
+@media only screen and (min-width: 320px) and (max-width:767px) {
+
+	.desktop-v{display: none}
+	.mobile-v{display: block}
+
+	h1 	{ font-size:24px;line-height:32px	;}
+	h2 	{ font-size:22px;line-height:26px	;}
+	h3 	{ font-size:16px;line-height: 24px  }
+	h4 	{ font-size:13px;line-height: 22px	}
+	h5 	{ font-size:12px;line-height: 20px	}
+	h6 	{ font-size:12px;line-height: 22px;font-family: Helvetica,Arial, sans-serif;	}
+	
+	.header-wrapper{height: 120px}
+	.flexslider{top:120px}
+	.footer-wrapper{height: 60px}
+	.logo{left: 15px;top:15px}
+	.logo img{height: 85px !important}
+	.flex-control-nav{bottom: 10px}
+	.lang {top:14px;right:50px;position: absolute}
+	.email-mobile-btn{width: 100%;position: absolute;bottom: -5px;right: auto;left: auto;text-align: center}
+	.email{display:inline-block;right: auto;position: relative}
+	
+	.ss-title{margin-top: 20px;margin-bottom: 0}
+	.shop-t-wrapper{display: none}
+	.download-map{display: none}
+	#table_example td{width: 100% !important;padding: 15px}
+	#table_example thead{display: none}
+	.ShopNumber {display: none !important}
+	#table_example{top:84px}
+	.event-wrapper .event-inner,.contact-wrapper .contact-inner{width: 100%}
+	.event-wrapper .event-inner{left: -100%}
+	.contact-wrapper .contact-inner{right:-100%}
+	.contact-wrapper .ion-ios-location {margin-bottom: 20px;margin-top: 30px;display: none}
+
+	.qr-code{width: 120px;margin: 0 auto 6px}
+	.event-inner .inner-content{bottom: 6%}
+	.event-inner .inner-title,.contact-inner .inner-title{top:10%}
+	.mobile-menu{opacity: 0;pointer-events: none}
+	.mobile-menu.active{opacity: 1;pointer-events: auto;}
+	.close-area{width: 100%;z-index: 999;position: absolute;background: none}
+	.search-form i{margin-top: 0}
+	.search-form input{height: 26px}
+	.nore{top:0}
+	.shop-inner{top:20px}
+	.email-form {    width: 80%;}
+	.email-form input {font-size: 30px; height: 42px;}
+	.email-wrapper{top:120px;}
+	.email-wrapper i.ion-ios-close-empty{right: 14px;top:0;font-size: 62px}
+	.email-form input{margin-bottom: 10px}
+	.v-line{height: 1px;width: 30px ;background: #333;margin: 10px auto}
+	.address{margin-top: 0 !important}
+
+	#store-btn,.click-btn{padding: 8px 40px}
+	.address{margin-top: 60px}
+	.email-wrapper i.ion-arrow-up-b{position: absolute;bottom:-24px;width: 100%;left: 0;text-align: center;top:auto;font-size: 42px}
+	#table_example{margin-bottom: 160px}
+	.shop-t{padding-bottom: 80px}
+	.pdf-icon a{color: #FFF}
+	.ss-title{padding-top: 0}
+	.icon-1,.icon-2,.icon-3,.icon-4{height: 20px;;width: 20px}
+
+	
+}
+	
+@media only screen and (min-width: 768px) and (max-width:992px) {
+}
+@media only screen and (min-width: 993px) and (max-width:6000px) {
+
+}

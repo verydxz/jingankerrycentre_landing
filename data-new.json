@@ -1,0 +1,1678 @@
+var store = {
+  "A": [
+    {
+      "shopname": "AVIREX",
+      "shopnamecn":"艾维莱克斯",
+      "shopnumber": "N3-13B",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Attakai Kokoro Tea Shop",
+      "shopnamecn":"恋暖初茶",
+      "shopnumber": "SB1-25A",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "L"
+    },
+    {
+      "shopname": "Arc'teryx",
+      "shopnamecn":"始祖鸟",
+      "shopnumber": "N3-20",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "S"
+    },
+    {
+      "shopname": "APM Monaco",
+      "shopnamecn":"",
+      "shopnumber": "NB1-25",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "agete",
+      "shopnamecn":"阿卡朵",
+      "shopnumber": "NB1-17A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "adidas Originals",
+      "shopnamecn":"阿迪达斯运动经典系列",
+      "shopnumber": "N3-12",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Abercrombie & Fitch",
+      "shopnamecn":"阿贝克隆比&费奇",
+      "shopnumber": "E1-01, E2-01",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    }
+  ],
+  "B": [
+    {
+      "shopname": "BURBERRY",
+      "shopnamecn":"博柏利",
+      "shopnumber": "N1-01, N2-01, N3-01",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "bunlife",
+      "shopnamecn":"朋乐坊",
+      "shopnumber": "S1-03",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "P"
+    },
+    {
+      "shopname": "Bread Basket",
+      "shopnamecn":"面包篮子",
+      "shopnumber": "E1-12K",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "M"
+    },
+    {
+      "shopname": "Brabantia",
+      "shopnamecn":"柏宾士",
+      "shopnumber": "SB2-04",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "Box eyewear",
+      "shopnamecn":"",
+      "shopnumber": "P-N3-07",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "BOSS",
+      "shopnamecn":"雨果博斯",
+      "shopnumber": "N1-24, N2-23",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "Y"
+    },
+    {
+      "shopname": "Bora Aksu",
+      "shopnamecn":"",
+      "shopnumber": "N1-21",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Boocup",
+      "shopnamecn":"现代书店",
+      "shopnumber": "SB2-02",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "X"
+    },
+    {
+      "shopname": "Blocco 5",
+      "shopnamecn":"第五广场",
+      "shopnumber": "N2-08",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "D"
+    },
+    {
+      "shopname": "Bibigo",
+      "shopnamecn":"必品阁",
+      "shopnumber": "E2-08",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "BASSETTS EXPRESS",
+      "shopnamecn":"贝赛斯冰淇淋",
+      "shopnumber": "N4-06",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Bank of China",
+      "shopnamecn":"中国银行",
+      "shopnumber": "E3-02, 07, 08",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "Z"
+    },
+    {
+      "shopname": "BALLY",
+      "shopnamecn":"巴利",
+      "shopnumber": "N1-25",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    }
+  ],
+  "C": [
+    {
+      "shopname": "CREATE HEARTFUL UNIQUENESS",
+      "shopnamecn":"初城",
+      "shopnumber": "SB1-27K",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "CRAFTSMAN JOHNSON",
+      "shopnamecn":"侨盛工匠",
+      "shopnumber": "N2-19D",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "Q"
+    },
+    {
+      "shopname": "Costa Coffee",
+      "shopnamecn":"",
+      "shopnumber": "T2-01",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "CLUB MONACO",
+      "shopnamecn":"",
+      "shopnumber": "NB1-06",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Clarins Skin Spa",
+      "shopnamecn":"娇韵诗美妍中心",
+      "shopnumber": "N2-24A",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "J"
+    },
+    {
+      "shopname": "CK Performance",
+      "shopnamecn":"",
+      "shopnumber": "N3-18",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "S"
+    },
+    {
+      "shopname": "CISSONNE",
+      "shopnamecn":"赛颂",
+      "shopnumber": "N2-16",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Cin Cin Fresco",
+      "shopnamecn":"亲亲冰激凌",
+      "shopnumber": "P-NB2-01",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "Q"
+    },
+    {
+      "shopname": "Chloe Chen",
+      "shopnamecn":"喜世贸易",
+      "shopnumber": "NB1-26B",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "X"
+    },
+    {
+      "shopname": "Chaoman",
+      "shopnamecn":"潮民茶事",
+      "shopnumber": "SB1-25B",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "CH CAROLINA HERRERA",
+      "shopnamecn":"卡罗琳娜 埃莱拉",
+      "shopnumber": "N1-20",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "K"
+    },
+    {
+      "shopname": "Candy Master",
+      "shopnamecn":"糖果大师",
+      "shopnumber": "SB1-24",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "T"
+    },
+    {
+      "shopname": "Calvin Klein Underwear",
+      "shopnamecn":"卡尔文·克雷恩",
+      "shopnumber": "NB1-21A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "K"
+    },
+    {
+      "shopname": "Calvin Klein Jeans",
+      "shopnamecn":"卡尔文 克莱恩",
+      "shopnumber": "N3-21",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "K"
+    },
+    {
+      "shopname": "Canteen Road",
+      "shopnamecn":"广东道",
+      "shopnumber": "N4-12",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "G"
+    },
+    {
+      "shopname": "CAFÉ DE LU",
+      "shopnamecn":"禄鹿咖啡",
+      "shopnumber": "E2-05",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "L"
+    },
+  ],
+  "D": [
+    {
+      "shopname": "DRAGONFLY",
+      "shopnamecn":"悠庭保健会所",
+      "shopnumber": "SB1-05B",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "Y"
+    },
+    {
+      "shopname": "Dos LocosｘCharlie’s",
+      "shopnamecn":"曾士餐饮",
+      "shopnumber": "SB1-11",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "Z"
+    },
+    {
+      "shopname": "DONOO Simple Living",
+      "shopnamecn":"单农",
+      "shopnumber": "SB1-23",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "DNEST",
+      "shopnamecn":"",
+      "shopnumber": "N3-24",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "d'zzit",
+      "shopnamecn":"",
+      "shopnumber": "SB1-20",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Din Tai Fung",
+      "shopnamecn":"鼎泰丰",
+      "shopnumber": "N4-15",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Diesel Living",
+      "shopnamecn":"柏睿甘泽家居",
+      "shopnumber": "S2-05",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "B"
+    },
+    {
+      "shopname": "DIESEL",
+      "shopnamecn":"迪素",
+      "shopnumber": "S1-01A, S2-01",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "DAZZLE",
+      "shopnamecn":"地素",
+      "shopnumber": "N3-11",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "DAVID MAYER NAMAN",
+      "shopnamecn":"大卫麦野",
+      "shopnumber": "N2-02B",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "",
+      "shopnamecn":"多乐之日",
+      "shopnumber": "E1-09",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "",
+      "shopnamecn":"大海",
+      "shopnumber": "N2-19C",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "non"
+    }
+  ],
+  "E": [
+    {
+      "shopname": "ETRO",
+      "shopnamecn":"艾绰",
+      "shopnumber": "N1-14",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "etre par Lee",
+      "shopnamecn":"",
+      "shopnumber": "SB1-08",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "essie nail",
+      "shopnamecn":"艾茜美甲",
+      "shopnumber": "E3-04",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "A"
+    },
+    {
+      "shopname": "ESPA",
+      "shopnamecn":"美悦荟",
+      "shopnumber": "SB2-01",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "M"
+    },
+    {
+      "shopname": "EMPORIO ARMANI",
+      "shopnamecn":"英波里奥 亚曼尼",
+      "shopnumber": "N1-04, N2-04",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "Y"
+    },
+    {
+      "shopname": "Elsa Lee",
+      "shopnamecn":"艾迩莎",
+      "shopnumber": "NB1-24",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "A"
+    },
+    {
+      "shopname": "element fresh vintage",
+      "shopnamecn":"新元素",
+      "shopnumber": "N1-12, N2-11",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "X"
+    },
+    {
+      "shopname": "edition Mo&Co.",
+      "shopnamecn":"",
+      "shopnumber": "NB1-14",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Ed Hardy Skinwear",
+      "shopnamecn":"",
+      "shopnumber": "NB1-04",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Ed Hardy",
+      "shopnamecn":"艾.哈帝",
+      "shopnumber": "N3-17",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "A"
+    },
+    {
+      "shopname": "ecco",
+      "shopnamecn":"爱步",
+      "shopnumber": "N3-29",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "A"
+    }
+  ],
+  "F": [
+    {
+      "shopname": "Franck Provost",
+      "shopnamecn":"梵珀巴黎法式发艺",
+      "shopnumber": "S3-03",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Ferrari Store Junior",
+      "shopnamecn":"法拉利童装系列",
+      "shopnumber": "N4-20",
+      "category": "Family & Kids",
+      "categorycn": "家庭及儿童",
+      "sub": "non"
+    },
+    {
+      "shopname": "FATCAT Dessert",
+      "shopnamecn":"肥猫甜品",
+      "shopnumber": "SB1-01",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Famini Kids",
+      "shopnamecn":"范迷你",
+      "shopnumber": "N3-23",
+      "category": "Family & Kids",
+      "categorycn": "家庭及儿童",
+      "sub": "non"
+    }
+  ],
+  "G": [
+    {
+      "shopname": "Guo TaiThai / Tian TaiThai",
+      "shopnamecn":"锅太泰/甜太泰",
+      "shopnumber": "S3-05, 06",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Gu Cycle",
+      "shopnamecn":"",
+      "shopnumber": "SB1-18B",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "Greyhound cafe",
+      "shopnamecn":"灰狗·潮泰意·餐厅",
+      "shopnumber": "S1-05",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "H"
+    },
+    {
+      "shopname": "Green Nail",
+      "shopnamecn":"",
+      "shopnumber": "NB1-12C",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "non"
+    },
+    {
+      "shopname": "GODIVA",
+      "shopnamecn":"歌帝梵",
+      "shopnumber": "SB1-09",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "glasstique",
+      "shopnamecn":"格拉斯緹",
+      "shopnumber": "NB1-12",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "G-kids",
+      "shopnamecn":"",
+      "shopnumber": "S3-02",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "non"
+    },
+    {
+      "shopname": "Giordano Ladies",
+      "shopnamecn":"",
+      "shopnumber": "NB1-26A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Genius At Work",
+      "shopnamecn":"吉乐斯下午茶",
+      "shopnumber": "SB2-07",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "J"
+    }
+  ],
+  "H": [
+    {
+      "shopname": "HSBC",
+      "shopnamecn":"汇丰银行",
+      "shopnumber": "E1-05",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "non"
+    },
+    {
+      "shopname": "Helysee",
+      "shopnamecn":"",
+      "shopnumber": "N3-13A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "HANG SENG BANK",
+      "shopnamecn":"恒生银行",
+      "shopnumber": "S1-200, SB1-17A",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "non"
+    },
+    {
+      "shopname": "H. Stern",
+      "shopnamecn":"诗荻恩",
+      "shopnumber": "N1-19",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "S"
+    }
+  ],
+  "I": [
+    {
+      "shopname": "ISSEY MIYAKI",
+      "shopnamecn":"三宅一生",
+      "shopnumber": "N1-02B",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "S"
+    },
+    {
+      "shopname": "IPPUDO",
+      "shopnamecn":"一風堂",
+      "shopnumber": "SB1-15",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "Y"
+    },
+    {
+      "shopname": "INNIU",
+      "shopnamecn":"意钮",
+      "shopnumber": "N2-02A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "Y"
+    },
+    {
+      "shopname": "initial",
+      "shopnamecn":"依迪索",
+      "shopnumber": "N3-10",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "Y"
+    },
+    {
+      "shopname": "il colpo bis x TIGI",
+      "shopnamecn":"依格宝X体吉",
+      "shopnumber": "E3-06B",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "Y"
+    },
+    {
+      "shopname": "i-baby",
+      "shopnamecn":"英伦宝贝",
+      "shopnumber": "N4-08",
+      "category": "Family & Kids",
+      "categorycn": "家庭及儿童",
+      "sub": "Y"
+    },
+    {
+      "shopname": "iseries",
+      "shopnamecn":"",
+      "shopnumber": "NB1-23",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    }
+  ],
+  "J": [
+    {
+      "shopname": "Just Pop",
+      "shopnamecn":"",
+      "shopnumber": "SB1-29K",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "JH1912",
+      "shopnamecn":"",
+      "shopnumber": "SB1-07A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Jade Garden",
+      "shopnamecn":"翠园",
+      "shopnumber": "S4-01",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "C"
+    },
+    {
+      "shopname": "JYJ Noodle Bar",
+      "shopnamecn":"金玡居",
+      "shopnumber": "S2-02",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "",
+      "shopnamecn":"家全七福",
+      "shopnumber": "E2-03",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    }
+  ],
+  "K": [
+    {
+      "shopname": "Kissocool",
+      "shopnamecn":"奇趣酷(精品童裝天地)",
+      "shopnumber": "N3-02",
+      "category": "Family & Kids",
+      "categorycn": "家庭及儿童",
+      "sub": "Q"
+    },
+    {
+      "shopname": "King's palace congee & noodle bar",
+      "shopnamecn":"皇府",
+      "shopnumber": "N4-12",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Kidsland",
+      "shopnamecn":"孩思乐玩具专卖店",
+      "shopnumber": "SB1-05A",
+      "category": "Family & Kids",
+      "categorycn": "家庭及儿童",
+      "sub": "H"
+    },
+    {
+      "shopname": "KARL LAGERFELD",
+      "shopnamecn":"卡尔拉格斐",
+      "shopnumber": "N1-18",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "KABB BISTRO BAR",
+      "shopnamecn":"凯博西餐酒吧",
+      "shopnumber": "S1-04, S2-04",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    }
+  ],
+  "L": [
+    {
+      "shopname": "Lululemon",
+      "shopnamecn":"唐可娜儿",
+      "shopnumber": "N1-23",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "T"
+    },
+    {
+      "shopname": "LULU GUINNESS",
+      "shopnamecn":"露露姬妮斯",
+      "shopnumber": "N2-02C",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Lucaris",
+      "shopnamecn":"卢咖丝",
+      "shopnumber": "P-B1-01",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "LOTTUSSE",
+      "shopnamecn":"乐途仕",
+      "shopnumber": "N2-12",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Longchamp",
+      "shopnamecn":"珑骧",
+      "shopnumber": "N1-05",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "lollipop baby boutiques",
+      "shopnamecn":"",
+      "shopnumber": "N4-07",
+      "category": "Family & Kids",
+      "categorycn": "家庭及儿童",
+      "sub": "non"
+    },
+    {
+      "shopname": "LOEWE",
+      "shopnamecn":"罗意威",
+      "shopnumber": "N1-02A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Links of London",
+      "shopnamecn":"灵狮",
+      "shopnumber": "NB1-19",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Life by city’super",
+      "shopnamecn":"乐方案",
+      "shopnumber": "NB1-09",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "Les Néréides",
+      "shopnamecn":"莱斯奈芮黛斯",
+      "shopnumber": "N3-03",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "LENSCRAFTERS",
+      "shopnamecn":"亮视点",
+      "shopnumber": "N3-28",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "LAMY",
+      "shopnamecn":"凌美",
+      "shopnumber": "SB1-06",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "LACOSTE",
+      "shopnamecn":"拉科斯特",
+      "shopnumber": "N3-31",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    }
+  ],
+  "M": [
+    {
+      "shopname": "MYLK-Café Gelateria",
+      "shopnamecn":"",
+      "shopnumber": "E1-08",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "MU",
+      "shopnamecn":"",
+      "shopnumber": "SB1-21",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "mTm Skincare MTM",
+      "shopnamecn":"[ 量肤定制 ]",
+      "shopnumber": "E3-06A",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "non"
+    },
+    {
+      "shopname": "Moussy SLY",
+      "shopnamecn":"",
+      "shopnumber": "SB1-04",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Moulin Roty",
+      "shopnamecn":"",
+      "shopnumber": "P-N4-01",
+      "category": "Family & Kids",
+      "categorycn": "家庭及儿童",
+      "sub": "non"
+    },
+    {
+      "shopname": "motherswork",
+      "shopnamecn":"玛喆沃珂",
+      "shopnumber": "N4-02",
+      "category": "Family & Kids",
+      "categorycn": "家庭及儿童",
+      "sub": "non"
+    },
+    {
+      "shopname": "MOSCHINO",
+      "shopnamecn":"默斯奇诺",
+      "shopnumber": "N1-13",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "MOOSAN seafood",
+      "shopnamecn":"木桑水产",
+      "shopnumber": "SB1-02",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Monceau",
+      "shopnamecn":"茉颂",
+      "shopnumber": "E1-07, E1-10K",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "MOLESKINE",
+      "shopnamecn":"魔力斯奇那",
+      "shopnumber": "N4-05",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "MO&Co.",
+      "shopnamecn":"摩安珂",
+      "shopnumber": "N3-16",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "MLB",
+      "shopnamecn":"棒球大联盟",
+      "shopnumber": "N4-16",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "B"
+    },
+    {
+      "shopname": "Misis",
+      "shopnamecn":"美赛丝",
+      "shopnumber": "NB1-12A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "MICHAEL KORS",
+      "shopnamecn":"迈克高仕",
+      "shopnumber": "N1-08, N2-07",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "MAURYA SICHUAN CUISINE",
+      "shopnamecn":"孔雀川菜",
+      "shopnumber": "N4-14",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "K"
+    },
+    {
+      "shopname": "Maryling",
+      "shopnamecn":"玛俪琳",
+      "shopnumber": "N2-18A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Martin Grant",
+      "shopnamecn":"马丁格兰",
+      "shopnumber": "P-N3-06",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "MANYEA",
+      "shopnamecn":"芒焉",
+      "shopnumber": "SB1-07B",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Madeleine",
+      "shopnamecn":"",
+      "shopnumber": "T3-01",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "M Steak",
+      "shopnamecn":"",
+      "shopnumber": "S1-02",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "d'zzit",
+      "shopnamecn":"",
+      "shopnumber": "SB1-20",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "",
+      "shopnamecn":"木九十",
+      "shopnumber": "N3-06",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    }
+  ],
+  "N": [
+    {
+      "shopname": "nicolas & bears",
+      "shopnamecn":"力高芘熊",
+      "shopnumber": "N4-09",
+      "category": "Family & Kids",
+      "categorycn": "家庭及儿童",
+      "sub": "L"
+    },
+    {
+      "shopname": "Neil Barrett",
+      "shopnamecn":"尼奥·贝奈特",
+      "shopnumber": "N1-11",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Nanling Restaurant",
+      "shopnamecn":"南伶",
+      "shopnumber": "S3-01",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    }
+  ],
+  "O": [
+    {
+      "shopname": "Original Fresh",
+      "shopnamecn":"原鲜",
+      "shopnumber": "SB1-17B",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "Y"
+    },
+    {
+      "shopname": "Ole’ Ole",
+      "shopnamecn":"高端精品超市",
+      "shopnumber": "NB2-01",
+      "category": "SUPERMARKET",
+      "categorycn": "超市",
+      "sub": "non"
+    },
+    {
+      "shopname": "Obag",
+      "shopnamecn":"",
+      "shopnumber": "NB1-05A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    }
+  ],
+  "P": [
+    {
+      "shopname": "PYE",
+      "shopnamecn":"派",
+      "shopnumber": "N2-09",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Pret A Manger",
+      "shopnamecn":"",
+      "shopnumber": "NB1-03A",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Press Express Dry Cleaning by Shangri-La",
+      "shopnamecn":"",
+      "shopnumber": "SB2-09",
+      "category": "SERVICES",
+      "categorycn": "服务",
+      "sub": "non"
+    },
+    {
+      "shopname": "PREMIERE CINEMAS",
+      "shopnamecn":"百美汇影城",
+      "shopnumber": "N4-01",
+      "category": "CINEMA",
+      "categorycn": "电影院",
+      "sub": "B"
+    },
+    {
+      "shopname": "PINTXOS tapas bar",
+      "shopnamecn":"品品小食",
+      "shopnumber": "SB1-10",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Pier39",
+      "shopnamecn":"叄拾玖號碼头",
+      "shopnumber": "E1-04",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "S"
+    },
+    {
+      "shopname": "Pho Real",
+      "shopnamecn":"真雕越南粉",
+      "shopnumber": "SB1-12",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "Z"
+    },
+    {
+      "shopname": "PEUTEREY",
+      "shopnamecn":"柏特瑞",
+      "shopnumber": "S1-01B",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "B"
+    },
+    {
+      "shopname": "Petit Bateau",
+      "shopnamecn":"小帆船",
+      "shopnumber": "NB1-17C",
+      "category": "Family & Kids",
+      "categorycn": "家庭及儿童",
+      "sub": "X"
+    },
+    {
+      "shopname": "Paul Smith",
+      "shopnamecn":"保罗·史密斯",
+      "shopnumber": "N1-06, N2-06",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "B"
+    },
+    {
+      "shopname": "Paul by Paul Smith",
+      "shopnamecn":"保罗·史密斯",
+      "shopnumber": "N2-06",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "B"
+    },
+    {
+      "shopname": "PATRIZIA PEPE",
+      "shopnamecn":"柏翠莎佩佩",
+      "shopnumber": "N2-13A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "B"
+    },
+    {
+      "shopname": "Personal Point",
+      "shopnamecn":"",
+      "shopnumber": "SB1-22",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    }
+  ],
+  "R": [
+    {
+      "shopname": "rouge&lounge",
+      "shopnamecn":"芮芝",
+      "shopnumber": "NB1-26C",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "ROUGE'LANE",
+      "shopnamecn":"",
+      "shopnumber": "NB1-15A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "roseonly",
+      "shopnamecn":"诺誓",
+      "shopnumber": "NB1-21B",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "N"
+    },
+    {
+      "shopname": "Robyn",
+      "shopnamecn":"",
+      "shopnumber": "N3-08",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "RIOTLILY",
+      "shopnamecn":"艾特里里",
+      "shopnumber": "N3-09",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "REPLAY",
+      "shopnamecn":"睿璞镭",
+      "shopnumber": "N3-07",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "L"
+    },
+    {
+      "shopname": "Repetto",
+      "shopnamecn":"丽派朵",
+      "shopnumber": "N2-13B",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Renior",
+      "shopnamecn":"雷诺瓦拼图文化坊",
+      "shopnumber": "N4-19",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "L"
+    },
+    {
+      "shopname": "Rehome",
+      "shopnamecn":"",
+      "shopnumber": "SB1-03",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "RED VALENTINO",
+      "shopnamecn":"",
+      "shopnumber": "N2-17",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Ray&Co",
+      "shopnamecn":"",
+      "shopnumber": "P-N4-02",
+      "category": "Family & Kids",
+      "categorycn": "家庭及儿童",
+      "sub": "non"
+    }
+  ],
+  "S": [
+    {
+      "shopname": "STARBUCKS",
+      "shopnamecn":"星巴克",
+      "shopnumber": "SB2-06",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "X"
+    },
+    {
+      "shopname": "U Jewelry",
+      "shopnamecn":"",
+      "shopnumber": "SB1-28K",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Soul&Freeka",
+      "shopnamecn":"山花璨",
+      "shopnumber": "SB1-19A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "sen-ryo",
+      "shopnamecn":"千両寿司",
+      "shopnumber": "SB1-18",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "Q"
+    },
+    {
+      "shopname": "Saboten",
+      "shopnamecn":"胜博殿",
+      "shopnumber": "SB1-13, SB1-14",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Sandra Jewellery",
+      "shopnamecn":"颐全珠宝",
+      "shopnumber": "S3-04B",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "Y"
+    },
+    {
+      "shopname": "SU Live",
+      "shopnamecn":"素",
+      "shopnumber": "P-N3-05",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Sunglass Hut",
+      "shopnamecn":"",
+      "shopnumber": "NB1-18",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "",
+      "shopnamecn":"十分之十",
+      "shopnumber": "NB1-17B",
+      "category": "Cosmetics",
+      "categorycn": "Cosmetics",
+      "sub": "non"
+    },
+    {
+      "shopname": "SIMPLE MILL",
+      "shopnamecn":"朴坊",
+      "shopnumber": "N4-18",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "P"
+    },
+    {
+      "shopname": "Simply Thai",
+      "shopnamecn":"天泰",
+      "shopnumber": "N4-11",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "T"
+    },
+    {
+      "shopname": "sundanpulse",
+      "shopnamecn":"顺电.脉",
+      "shopnumber": "N4-03",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "Sonos",
+      "shopnamecn":"",
+      "shopnumber": "N3-27",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "STUART WEITZMAN",
+      "shopnamecn":"斯图尔特•韦茨曼",
+      "shopnumber": "N2-14",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "Slitti",
+      "shopnamecn":"丝丽缇",
+      "shopnumber": "E1-11K",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "STARBUCKS",
+      "shopnamecn":"星巴克",
+      "shopnumber": "E1-03, E1-06K",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "X"
+    }
+  ],
+  "T": [
+    {
+      "shopname": "Time More",
+      "shopnamecn":"",
+      "shopnumber": "SB2-09K",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "The Beautools",
+      "shopnamecn":"優姬美器",
+      "shopnumber": "SB2-08K",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "Y"
+    },
+    {
+      "shopname": "The Graces Floral",
+      "shopnamecn":"婷意花宇",
+      "shopnumber": "SB1-31K",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "TOKIDOKI",
+      "shopnamecn":"",
+      "shopnumber": "NB1-05B",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "The Beast",
+      "shopnamecn":"野兽派",
+      "shopnumber": "NB1-03B",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "Y"
+    },
+    {
+      "shopname": "TED BAKER",
+      "shopnamecn":"泰德贝克",
+      "shopnumber": "NB1-01",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "teuscher Chocolates of Switzerland",
+      "shopnamecn":"黛依舍",
+      "shopnumber": "N4-17",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "D"
+    },
+    {
+      "shopname": "Takumi Ⅱ Robatayaki & Sake",
+      "shopnamecn":"炉匠 炉端烧.酒",
+      "shopnumber": "N3-14",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "L"
+    },
+    {
+      "shopname": "TUMI",
+      "shopnamecn":"途明",
+      "shopnumber": "N2-22",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    },
+    {
+      "shopname": "TSE",
+      "shopnamecn":"晞",
+      "shopnumber": "N2-19B",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "X"
+    },
+    {
+      "shopname": "TOUS les JOURS",
+      "shopnamecn":"",
+      "shopnumber": "E1-09",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "TORY BURCH",
+      "shopnamecn":"汤丽柏琦",
+      "shopnumber": "E1-02, E2-02",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    }
+  ],
+  "U": [
+    {
+      "shopname": "UNDER ARMOUR",
+      "shopnamecn":"安德阿镆",
+      "shopnumber": "N4-21",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "A"
+    }
+  ],
+  "V": [
+    {
+      "shopname": "Vale",
+      "shopnamecn":"逸谷会",
+      "shopnumber": "N3-15",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "Y"
+    },
+    {
+      "shopname": "Vesta Wine & Dine",
+      "shopnamecn":"",
+      "shopnumber": "N1-10B",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    }
+  ],
+  "W": [
+    {
+      "shopname": "Wagas limited",
+      "shopnamecn":"沃歌斯",
+      "shopnumber": "N1-22",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "Watson's Wine Cellar",
+      "shopnamecn":"屈臣氏酒窖",
+      "shopnumber": "SB1-16",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "Q"
+    },
+    {
+      "shopname": "Wheelys",
+      "shopnamecn":"",
+      "shopnumber": "P-B1-02",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+  ],
+  "X": [
+    {
+      "shopname": "X+Q",
+      "shopnamecn":"稀奇",
+      "shopnumber": "S3-04A",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "",
+      "shopnamecn":"羲和小馆",
+      "shopnumber": "NB1-16",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "",
+      "shopnamecn":"相思蜜哒",
+      "shopnumber": "NB1-13",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    },
+    {
+      "shopname": "XII BASKET",
+      "shopnamecn":"十二篮",
+      "shopnumber": "N3-25",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "S"
+    }
+  ],
+  "Y": [
+    {
+      "shopname": "YOUK SHIM WON",
+      "shopnamecn":"陆心媛",
+      "shopnumber": "NB1-11",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "L"
+    },
+    {
+      "shopname": "彦悦山",
+      "shopnamecn":"",
+      "shopnumber": "P-NB2-02",
+      "category": "Food & Beverage",
+      "categorycn": "餐饮",
+      "sub": "non"
+    }
+  ],
+  "Z": [
+    {
+      "shopname": "竹叶青",
+      "shopnamecn":"",
+      "shopnumber": "SB2-05",
+      "category": "Lifestyle",
+      "categorycn":"生活方式",
+      "sub": "non"
+    },
+    {
+      "shopname": "ZUCZUG",
+      "shopnamecn":"素然",
+      "shopnumber": "N3-26",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "S"
+    },
+    {
+      "shopname": "ZHUCHONGYUN",
+      "shopnamecn":"朱崇恽",
+      "shopnumber": "N2-05A",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    }
+  ],
+  "nonu": [
+    {
+      "shopname": "1010 Apothecary",
+      "shopnamecn":"",
+      "shopnumber": "NB1-17B",
+      "category": "Cosmetics",
+      "categorycn": "",
+      "sub": "non"
+    },
+    {
+      "shopname": "3.1 Phillip Lim",
+      "shopnamecn":"3.1菲利林",
+      "shopnumber": "N1-16",
+      "category": "Fashion & Accessory",
+      "categorycn": "时尚及配饰",
+      "sub": "non"
+    }
+  ]
+}
